@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+}
+a{
+    color: beige;
+    font-size: 80px;
+    text-decoration: none;
+}
+li{
+    float: left;
+    margin: 20px;
+}
+ul{
+ overflow: auto;
+}
+.header{
+background-image:linear-gradient(rgba(240, 114, 135 ,0.7),rgba(46, 40, 40,0.7)),url(edu1.jpg);
+height: 100vh;
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+    text-align: center;
+    font: size 80px;
+    color: black;
+    padding-top: 250px;
+}
+p{
+    text-align: center;
+font-size: 40px;
+font-weight: bold;
+color: tomato;
+}
+button{
+    border:2px solid black;
+padding: 15px;
+font-size: 20px;
+margin-top: 30px;
+color: white;
+background-color: black; 
+}
+button:hover{
+background: brown;
+
+}
+.btn{
+justify-content: center;
+align-items: center;
+display: flex;
+
+#head{
+    color: black;
+ font-size: 80px;
+}
+.course{
+    margin-top: 30px;
+}
+.row{
+    display: flex;
+}
+.coloumn{
+border: 2px solid black;
+margin: 50px;
+text-align: center;
+padding: 20px;
+border-radius: 30px;
+background: linear-gradient(rgb(34, 8, 182),pink);
+}
+.uni{
+border: 1px solid black;
+margin: 50px;
+margin-right: 97px;
+margin left: 20;
+}
+h3{
+    text-align: center;
+}
+img{
+height: 200px;
+width: 300px;
+}
+
+

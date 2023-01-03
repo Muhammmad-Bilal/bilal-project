@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    background-color: black;
+}
+a{
+    color: burlywood;
+    text-decoration: none;
+}
+ul{
+    overflow: auto;
+}
+li{
+float: left;
+margin: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
